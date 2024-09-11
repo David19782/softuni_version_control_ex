@@ -2,4 +2,3 @@
 
 # David - owner
 # Pesho - developer
-# Ivo - developer
